@@ -1,4 +1,4 @@
-# backend JwtAuthDemo
+# Backend JwtAuthDemo
 
 ASP.NET Core Web API for user registration and login using JWT authentication.
 
