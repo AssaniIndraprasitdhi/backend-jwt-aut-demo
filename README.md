@@ -21,6 +21,6 @@ ASP.NET Core Web API for user registration and login using JWT authentication.
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/backend-jwt-auth.git
+git clone https://github.com/AssaniIndraprasitdhi/backend-jwt-auth.git
 cd backend-jwt-auth
 dotnet run
