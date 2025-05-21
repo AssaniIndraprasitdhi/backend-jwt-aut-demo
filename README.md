@@ -16,7 +16,7 @@ ASP.NET Core Web API for user registration and login using JWT authentication.
 - Entity Framework Core
 - JWT (JSON Web Tokens)
 - BCrypt
-- SQLite
+- MySQL Workbench
 
 ## 📦 Getting Started
 
