@@ -2,7 +2,7 @@
 
 ASP.NET Core Web API for user registration and login using JWT authentication.
 
-## 🚀 Features
+## Features
 
 - Register new users
 - Login and receive JWT token
@@ -10,7 +10,7 @@ ASP.NET Core Web API for user registration and login using JWT authentication.
 - Built with .NET 8 + EF Core + SQLite
 - Ready to extend with user roles, profiles, and refresh tokens
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - ASP.NET Core 8
 - Entity Framework Core
@@ -18,7 +18,7 @@ ASP.NET Core Web API for user registration and login using JWT authentication.
 - BCrypt
 - MySQL Workbench
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/AssaniIndraprasitdhi/backend-jwt-auth.git
